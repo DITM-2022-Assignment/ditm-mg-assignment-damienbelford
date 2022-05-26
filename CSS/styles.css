@@ -1,0 +1,44 @@
+.navigation-div {
+    background-color: rgb(225, 20, 20);
+    width: 100vw;
+    height:center; 
+}
+
+h1 {
+    font-weight: normal;
+    color: rgba(0, 0, 0, 0.756);
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+.content-div {
+background-color: rgb(106, 201, 10);
+width: 100vw;
+height: auto;
+ }
+
+ h2 {
+    color: rgb(255, 255, 255);
+ }
+
+ .footer-div {
+background-color: rgb(56, 70, 163);
+width: 100vw;
+height: 25vh;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+ }
+
+ .left {
+background-color: aqua;
+width: auto;
+height: 50px;
+ }
+
+ .right {
+background-color: blueviolet;
+width: auto;
+height: 50px;
+
+ }
